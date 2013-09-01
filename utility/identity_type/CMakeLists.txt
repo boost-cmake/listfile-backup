@@ -1,0 +1,5 @@
+
+ryppl_project(BoostUtilityIdentityType)
+
+ryppl_add_test_subdirectory(test)
+ryppl_add_doc_subdirectory(doc)

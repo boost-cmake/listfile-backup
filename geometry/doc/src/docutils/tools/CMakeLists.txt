@@ -1,0 +1,1 @@
+add_subdirectory(doxygen_xml2qbk)
